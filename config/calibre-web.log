@@ -19,3 +19,20 @@
 [2025-06-11 11:33:06,410]  INFO {cps.ub:764} github Blueprint Created
 [2025-06-11 11:33:06,412]  INFO {cps.ub:764} google Blueprint Created
 [2025-06-11 11:33:06,824]  INFO {cps.server:218} Starting Gevent server on [::]:8083
+[2025-06-11 11:47:50,345]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:47:50,347]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:47:52,054] ERROR {cps.db:883} Author  not found to display name in right order
+[2025-06-11 11:47:52,058] ERROR {cps.db:883} Author Stanley Ph.D., Thomas J. not found to display name in right order
+[2025-06-11 11:47:52,059] ERROR {cps.db:883} Author  not found to display name in right order
+[2025-06-11 11:47:52,080] ERROR {cps.db:883} Author Aviv, Jonathan, MD, FACS not found to display name in right order
+[2025-06-11 11:47:59,519]  INFO {cps.web:1237} Serving book: book - Unknown
+[2025-06-11 11:47:59,523]  INFO {cps.web:1237} Serving book: book - Unknown
+[2025-06-11 11:48:10,064] ERROR {cps.db:883} Author  not found to display name in right order
+[2025-06-11 11:48:10,070] ERROR {cps.db:883} Author Stanley Ph.D., Thomas J. not found to display name in right order
+[2025-06-11 11:48:10,072] ERROR {cps.db:883} Author  not found to display name in right order
+[2025-06-11 11:48:10,097] ERROR {cps.db:883} Author Aviv, Jonathan, MD, FACS not found to display name in right order
+[2025-06-11 11:48:17,147]  INFO {cps.web:1237} Serving book: The Book of Five Rings - Miyamoto Musashi, Trans. By Thomas Cleary
+[2025-06-11 11:48:17,164]  INFO {cps.web:1237} Serving book: The Book of Five Rings - Miyamoto Musashi, Trans. By Thomas Cleary
+[2025-06-11 11:48:37,697]  INFO {cps.web:1237} Serving book: Jiu-jitsu University - Saulo Ribeiro
+[2025-06-11 11:48:37,730]  INFO {cps.web:1237} Serving book: Jiu-jitsu University - Saulo Ribeiro
+[2025-06-11 11:48:39,845]  INFO {cps.web:1237} Serving book: Jiu-jitsu University - Saulo Ribeiro
