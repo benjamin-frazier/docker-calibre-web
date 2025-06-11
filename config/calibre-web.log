@@ -1,0 +1,21 @@
+[2025-06-11 11:33:05,725]  WARN {cps.config_sql:364} Log path /config/calibre-web.log not valid, falling back to default
+[2025-06-11 11:33:05,730]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:33:05,731]  WARN {cps.config_sql:400} invalidating configuration
+[2025-06-11 11:33:05,731]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:33:06,160]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:33:06,160]  WARN {cps.config_sql:400} invalidating configuration
+[2025-06-11 11:33:06,161]  WARN {cps.config_sql:364} Log path  not valid, falling back to default
+[2025-06-11 11:33:06,170]  INFO {cps:178} Starting Calibre Web...
+[2025-06-11 11:33:06,285]  WARN {py.warnings:110} /lsiopy/lib/python3.12/site-packages/flask_limiter/extension.py:333: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2025-06-11 11:33:06,347]  INFO {apscheduler.scheduler:181} Scheduler started
+[2025-06-11 11:33:06,347]  INFO {apscheduler.scheduler:895} Added job "delete temp" to job store "default"
+[2025-06-11 11:33:06,347]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2025-06-11 11:33:06,347]  INFO {apscheduler.scheduler:895} Added job "immediately delete temp" to job store "default"
+[2025-06-11 11:33:06,354]  INFO {apscheduler.executors.default:123} Running job "immediately delete temp (trigger: date[2025-06-11 11:33:06 EDT], next run at: 2025-06-11 11:33:06 EDT)" (scheduled at 2025-06-11 11:33:06.347813-04:00)
+[2025-06-11 11:33:06,355]  INFO {apscheduler.scheduler:641} Removed job 10eb146bc77544f1aeaf7ec93600ed76
+[2025-06-11 11:33:06,357]  INFO {apscheduler.executors.default:144} Job "immediately delete temp (trigger: date[2025-06-11 11:33:06 EDT], next run at: 2025-06-11 11:33:06 EDT)" executed successfully
+[2025-06-11 11:33:06,410]  INFO {cps.ub:764} github Blueprint Created
+[2025-06-11 11:33:06,412]  INFO {cps.ub:764} google Blueprint Created
+[2025-06-11 11:33:06,824]  INFO {cps.server:218} Starting Gevent server on [::]:8083
